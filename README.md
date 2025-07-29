@@ -4,7 +4,7 @@
 
 - Create nested routes using `children` and `Outlet`.
 - DRY up code with nested routing.
-- Pass data to nested route components using `useOutletContext`.
+- Pass data to nested r oute components using `useOutletContext`.
 
 ## Introduction
 
