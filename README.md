@@ -15,7 +15,7 @@ updates!
 First of all, we don't want to have to include our `NavBar` component in every
 page level component — that wasn't very DRY! We also included the same
 `ErrorPage` on every one of our components — we'll fix that too.
-
+.
 Second of all, we don't want to navigate to a brand new web page to view a
 specific user. Instead, we want that user to display on the same page as the
 list of users! But we do still want each user to have their own URL so that we
